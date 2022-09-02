@@ -78,7 +78,7 @@ git config --global user.email "login@epitech.eu"
 10: Download the github repo
 
 ```bash
-git clone https://github.com/LeoSarochar/install-party-epitech-mtp-updated
+git clone https://github.com/LeoSarochar/install-party-epitech-montpellier-2022
 ```
 
 11: Move into the "epitech-emacs" folder
